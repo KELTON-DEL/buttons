@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    margin: 10%auto;
+    
+    align-items: center;
+    min-height: 100vh;
+    background: #e4e5e9;
+}
+button{
+    cursor: pointer;
+    border-radius: 10px;
+    border-bottom: yellow;
+    margin: 0;
+box-sizing: border-box;
+font-family:'popins',sans-serif;
+font-size: 1.5rem;
+letter-spacing: 0.1rem;
+padding: 10px 30px;
+transition:box-shadow 0.5s ease ease-out;
+}
+button:hover{
+    background-color:transparent;
+    box-shadow: 0 0 40px 0 rgb(17, 0, 255);
+   padding-left: 30px;
+
+    
+}
